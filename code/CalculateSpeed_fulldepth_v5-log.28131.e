@@ -1,0 +1,757 @@
+Lmod has detected the following error: The following module(s) are unknown:
+"parcels-dev"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "parcels-dev"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+Lmod has detected the following error: The following module(s) are unknown:
+"miniconda"
+
+Please check the spelling or version number. Also try "module spider ..."
+It is also possible your cache file is out-of-date; it may help to try:
+  $ module --ignore_cache load "miniconda"
+
+Also make sure that all modulefiles written in TCL start with the string
+#%Module
+
+
+
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+/nethome/ruhs0001/miniconda3/envs/py3_parcels/lib/python3.11/site-packages/dask/core.py:119: RuntimeWarning: invalid value encountered in divide
+  return func(*(_execute_task(a, cache) for a in args))
+slurmstepd: error: *** JOB 28131 ON node02 CANCELLED AT 2023-09-30T11:09:20 DUE TO TIME LIMIT ***
